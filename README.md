@@ -1,0 +1,2 @@
+# GNNSynergy
+Implement of GNNSynergy
